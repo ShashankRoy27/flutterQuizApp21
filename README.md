@@ -40,26 +40,3 @@ Follow these instructions to run the Quiz App on your local machine:
 2. Open the project in your preferred Flutter development environment.
 
 3. Run the app on an emulator or physical device.
-
-## Dependencies
-
-The project uses the following dependencies:
-
-- `http`: For making HTTP requests to the Open Trivia Database.
-- `flutter/material.dart`: The core Flutter framework for building the UI.
-
-## How to Contribute
-
-If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push the changes to your fork.
-5. Create a pull request.
-
-Please ensure that your pull request adheres to the existing code style and includes relevant test cases.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
